@@ -1,0 +1,17 @@
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #cac6dd, #3046C5, #ff0505);
+    color: white;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.col {
+    border: 2px solid green;
+}
+
+.col-sm {
+    border: 2px solid red;
+}
